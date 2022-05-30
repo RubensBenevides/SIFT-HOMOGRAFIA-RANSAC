@@ -1,26 +1,24 @@
 # SIFT-HOMOGRAFIA-RANSAC
 Este repositório contém todos os dados e funções necessários para reproduzir os resultados do artigo "Registro de imagens por Homografia estimada com RANSAC (Random Sample Consenssus) adaptado para o descritor SIFT (Scale Invariant Feature Transform)" submetido para a Revista Brasileira de Cartografia (RBC). Os scripts estão na pasta funcoes_MATLAB.
 
-<h1 align="center">CALIBRAÇÃO</h1>
-
+<h2 align="center">CALIBRAÇÃO</h2>
 <p align="center">
-(https://user-images.githubusercontent.com/52086242/171007993-f32a8ea5-501e-4e03-9f01-80f19a962abf.png)
+![calibracao](https://user-images.githubusercontent.com/52086242/171009813-7011c5aa-82dc-4424-8a5d-54c105c745a0.png)
+
 </p>
 
-![image](https://user-images.githubusercontent.com/52086242/171008608-d088098b-2c9f-47d3-90c5-a2a94a617c62.png)
 
-<h1 align="center">HOMOGRAFIA</h1>
+
+<h2 align="center">HOMOGRAFIA</h2>
 <p align="center">
-(https://user-images.githubusercontent.com/52086242/171008010-dabc6cb4-f3a1-43d9-abfc-2b5b14057276.png)
+![homografia](https://user-images.githubusercontent.com/52086242/171009876-5883ae59-b977-49a0-b1be-add780a986f2.png)
 </p>
 
-<h1 align="center">SIFT+RANSAC</h1>
+<h2 align="center">SIFT+RANSAC</h2>
+<h3 Resultados em imagens capturadas com câmera de smartphone</h3>
+![par_1](https://user-images.githubusercontent.com/52086242/171009750-9b0e3ffe-672b-4f94-afba-7eb08b9d8eaa.png)
+![par_2](https://user-images.githubusercontent.com/52086242/171009639-e4af2194-b6a8-471e-85f2-7d4e0abeabba.png)
 
-<h2 align="center">Resultados em imagens capturadas com câmera de smartphone</h2>
-(https://user-images.githubusercontent.com/52086242/171006555-3ee76411-3d12-4f5f-89d9-6873a0b3a5fa.png)
-(https://user-images.githubusercontent.com/52086242/171007365-328d4cec-e2ec-45c8-b41e-5828b01d5918.png)
-
-<h2 align="center">Resultados em imagens capturadas com câmera profissional</h2>
-(https:![par_8](https://user-images.githubusercontent.com/52086242/171007398-3372f933-eaaf-4cbc-87c1-a002f3bc71ad.png)
-//user-images.githubusercontent.com/52086242/171007386-4203643c-31f3-4f56-9ba4-c44665e80002.png)
-
+<h3 align="center">Resultados em imagens capturadas com câmera profissional</h3>
+![par_5](https://user-images.githubusercontent.com/52086242/171009786-b5830f5b-46f3-43b4-a117-1de19251315a.png)
+![par_8](https://user-images.githubusercontent.com/52086242/171009794-309402a8-f857-4779-80f1-e9eb9929e733.png)
