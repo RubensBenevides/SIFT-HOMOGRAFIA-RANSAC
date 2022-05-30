@@ -4,10 +4,7 @@ Este repositório contém todos os dados e funções necessários para reproduzi
 <h2 align="center">CALIBRAÇÃO</h2>
 <p align="center">
 ![calibracao](https://user-images.githubusercontent.com/52086242/171009813-7011c5aa-82dc-4424-8a5d-54c105c745a0.png)
-
 </p>
-
-
 
 <h2 align="center">HOMOGRAFIA</h2>
 <p align="center">
